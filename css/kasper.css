@@ -971,7 +971,7 @@ q::after {
 .footer {
   padding-top: calc(var(--section-padding) / 2);
   padding-bottom: calc(var(--section-padding) / 2);
-  background-image: url("/img/subscribe.jpg");
+  background-image: url("../img/subscribe.jpg");
   color: var(--color-1);
   text-align: center;
   background-size: cover;
